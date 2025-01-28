@@ -1,0 +1,12 @@
+{
+  "name": "property-search",
+  "version": "1.0.0",
+  "description": "This model represents the users (house hunters) of the platform. It stores information about each user’s profile, subscription status, and activities on the platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
